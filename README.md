@@ -19,7 +19,7 @@ browser with a nice looking user interface.
 - [Privacy](https://github.com/dopearsall/madstar.browser/blob/master/PRIVACY.md)
 - [License](https://github.com/dopearsall/madstar.browser/blob/master/LICENSE.md)
 - [Code of conduct](https://github.com/dopearsall/madstar.browser/blob/master/CODE_OF_CONDUCT.md)
-- [Contributing](https://github.com/dopearsall/madtar.browser/blob/master/CONTRIBUTING.md)
+- [Contributing](https://github.com/dopearsall/madstar.browser/blob/master/CONTRIBUTING.md)
 
 
 ### Security/Data:
